@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDFpOTlheGFrMXNtZGEzNnBicTJnMGtscWo4bWNkcm53Mjk1ZmlrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eDDrmbtY0aSAII8ffT/giphy.gif" width="100"/>
 </div>
 
 <div id="badges" align="center">
@@ -27,6 +27,8 @@ What's up! I graduated a couple of years ago from college where I was able to st
 ## 🎓 Education
 
 > **B.E. in Translation and Interpreting (EN-FR-ES)** |  2022,  **Universidad Internacional de Valencia, 🇪🇸 Spain**
+
+> **Full Stack Web Developer Bootcamp** |  2024,  **4 Geeks**
 
 
 
