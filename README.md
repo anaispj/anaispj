@@ -19,7 +19,16 @@
 <img src="https://komarev.com/ghpvc/?username=anaispj&style=flat-square&color=blue" alt=""/>
 </div>
 
-## Hi, my name is Anais 👋
+## 👋 Hello! My name is Anais ✨   
+
+What's up! I graduated a couple of years ago from college where I was able to study some notions about the programming world and now I've grown fond of it, so why not give it a try?
+
+
+## 🎓 Education
+
+> **B.E. in Translation and Interpreting (EN-FR-ES)** |  2022,  **Universidad Internacional de Valencia, 🇪🇸 Spain**
+
+
 
 <!--
 **anaispj/anaispj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
