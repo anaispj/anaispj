@@ -23,7 +23,7 @@
 
 ### :woman_technologist: About me
 
-What's up! I graduated a couple of years ago from college where I was able to study some notions about the programming world and now I've grown fond of it, so why not give it a try?
+What's up! I graduated a couple of years ago from college where I was able to study some notions about the programming world and now I've grown fond of it, so here I am!
 
 I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in the making from Spain 🇪🇸
 
