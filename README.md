@@ -36,7 +36,7 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 - :zap: In my free time, I like to watch tutorials and read articles (among other stuff).
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anaispjimenez)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Anais-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anaispjimenez)
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
