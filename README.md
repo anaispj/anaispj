@@ -19,7 +19,10 @@
 <img src="https://komarev.com/ghpvc/?username=anaispj&style=flat-square&color=blue" alt=""/>
 </div>
 
-## Hello! My name is Anais 👋   
+<h1>
+  Hey there!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>  
 
 ### :woman_technologist: About me
 
@@ -27,6 +30,15 @@ What's up! I graduated a couple of years ago from college where I was able to st
 
 I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in the making from Spain 🇪🇸
 
+- :telescope: I’m currently studying at 4 Geeks Academy.
+
+- :seedling: Exploring more and more about this.
+
+- :zap: In my free time, I like to watch tutorials and read articles (among other stuff).
+
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anaispjimenez)
+
+---
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
